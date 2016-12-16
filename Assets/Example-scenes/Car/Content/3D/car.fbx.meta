@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 069a31efba81a47ee94a4f425c2bcf6d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: air_vent_left
+    100002: air_vent_right
+    100004: back_bottom
+    100006: back_door_left
+    100008: back_door_right
+    100010: back_frame
+    100012: back_lights_glass
+    100014: back_mirror_left
+    100016: back_mirror_right
+    100018: back_seats
+    100020: back_shoulders
+    100022: back_windo_rim
+    100024: base
+    100026: bonnet
+    100028: bottom_sides
+    100030: break_back_left
+    100032: break_back_right
+    100034: break_front_left
+    100036: break_front_right
+    100038: breaklights
+    100040: //RootNode
+    100042: car_main_back
+    100044: car_main_back_wheelcaps
+    100046: car_main_floor_back
+    100048: car_main_floor_front
+    100050: car_main_front_left_lower
+    100052: car_main_front_left_upper_back
+    100054: car_main_front_left_upper_front
+    100056: car_main_front_right_lower
+    100058: car_main_front_right_upper_back
+    100060: car_main_insets
+    100062: car_wheelcaps_front
+    100064: car_wheelcaps_front_2
+    100066: detail_1
+    100068: detail_1_2
+    100070: detail_2
+    100072: detail_2_2
+    100074: door
+    100076: door_2
+    100078: exhausts
+    100080: front_connection
+    100082: front_door_left
+    100084: front_door_right
+    100086: front_light_glass_left
+    100088: front_light_glass_right
+    100090: front_seat_left
+    100092: front_seat_right
+    100094: front_spoiler
+    100096: glass
+    100098: glass_2
+    100100: grill
+    100102: lights_front_left
+    100104: lights_front_left_led_1
+    100106: lights_front_left_led_2
+    100108: lights_front_right
+    100110: lights_front_right_led_1
+    100112: lights_front_right_led_2
+    100114: logo_back
+    100116: logo_front
+    100118: number_plate_light
+    100120: numberplate_back
+    100122: rim_back_left_1
+    100124: rim_back_left_2
+    100126: rim_back_left_3
+    100128: rim_back_right_1
+    100130: rim_back_right_2
+    100132: rim_front_left
+    100134: rim_front_right_1
+    100136: rim_front_right_2
+    100138: rim_inner_front_left
+    100140: rim_inner_front_right
+    100142: roof
+    100144: roof_inner
+    100146: steering_wheel
+    100148: tire_back_left
+    100150: tire_back_left_2
+    100152: tire_back_right
+    100154: tire_back_right_2
+    100156: tire_front_left
+    100158: tire_front_right
+    100160: tires
+    100162: trunk_detail
+    100164: window
+    100166: window_lids
+    100168: window_lids_2
+    100170: window_lids_3
+    100172: windshield
+    400000: air_vent_left
+    400002: air_vent_right
+    400004: back_bottom
+    400006: back_door_left
+    400008: back_door_right
+    400010: back_frame
+    400012: back_lights_glass
+    400014: back_mirror_left
+    400016: back_mirror_right
+    400018: back_seats
+    400020: back_shoulders
+    400022: back_windo_rim
+    400024: base
+    400026: bonnet
+    400028: bottom_sides
+    400030: break_back_left
+    400032: break_back_right
+    400034: break_front_left
+    400036: break_front_right
+    400038: breaklights
+    400040: //RootNode
+    400042: car_main_back
+    400044: car_main_back_wheelcaps
+    400046: car_main_floor_back
+    400048: car_main_floor_front
+    400050: car_main_front_left_lower
+    400052: car_main_front_left_upper_back
+    400054: car_main_front_left_upper_front
+    400056: car_main_front_right_lower
+    400058: car_main_front_right_upper_back
+    400060: car_main_insets
+    400062: car_wheelcaps_front
+    400064: car_wheelcaps_front_2
+    400066: detail_1
+    400068: detail_1_2
+    400070: detail_2
+    400072: detail_2_2
+    400074: door
+    400076: door_2
+    400078: exhausts
+    400080: front_connection
+    400082: front_door_left
+    400084: front_door_right
+    400086: front_light_glass_left
+    400088: front_light_glass_right
+    400090: front_seat_left
+    400092: front_seat_right
+    400094: front_spoiler
+    400096: glass
+    400098: glass_2
+    400100: grill
+    400102: lights_front_left
+    400104: lights_front_left_led_1
+    400106: lights_front_left_led_2
+    400108: lights_front_right
+    400110: lights_front_right_led_1
+    400112: lights_front_right_led_2
+    400114: logo_back
+    400116: logo_front
+    400118: number_plate_light
+    400120: numberplate_back
+    400122: rim_back_left_1
+    400124: rim_back_left_2
+    400126: rim_back_left_3
+    400128: rim_back_right_1
+    400130: rim_back_right_2
+    400132: rim_front_left
+    400134: rim_front_right_1
+    400136: rim_front_right_2
+    400138: rim_inner_front_left
+    400140: rim_inner_front_right
+    400142: roof
+    400144: roof_inner
+    400146: steering_wheel
+    400148: tire_back_left
+    400150: tire_back_left_2
+    400152: tire_back_right
+    400154: tire_back_right_2
+    400156: tire_front_left
+    400158: tire_front_right
+    400160: tires
+    400162: trunk_detail
+    400164: window
+    400166: window_lids
+    400168: window_lids_2
+    400170: window_lids_3
+    400172: windshield
+    2300000: air_vent_left
+    2300002: air_vent_right
+    2300004: back_bottom
+    2300006: back_door_left
+    2300008: back_door_right
+    2300010: back_frame
+    2300012: back_lights_glass
+    2300014: back_mirror_left
+    2300016: back_mirror_right
+    2300018: back_seats
+    2300020: back_shoulders
+    2300022: back_windo_rim
+    2300024: base
+    2300026: bonnet
+    2300028: bottom_sides
+    2300030: break_back_left
+    2300032: break_back_right
+    2300034: break_front_left
+    2300036: break_front_right
+    2300038: breaklights
+    2300040: car_main_back
+    2300042: car_main_back_wheelcaps
+    2300044: car_main_floor_back
+    2300046: car_main_floor_front
+    2300048: car_main_front_left_lower
+    2300050: car_main_front_left_upper_back
+    2300052: car_main_front_left_upper_front
+    2300054: car_main_front_right_lower
+    2300056: car_main_front_right_upper_back
+    2300058: car_main_insets
+    2300060: car_wheelcaps_front
+    2300062: car_wheelcaps_front_2
+    2300064: detail_1
+    2300066: detail_1_2
+    2300068: detail_2
+    2300070: detail_2_2
+    2300072: door
+    2300074: door_2
+    2300076: exhausts
+    2300078: front_connection
+    2300080: front_light_glass_left
+    2300082: front_light_glass_right
+    2300084: front_seat_left
+    2300086: front_seat_right
+    2300088: front_spoiler
+    2300090: glass
+    2300092: glass_2
+    2300094: grill
+    2300096: lights_front_left
+    2300098: lights_front_left_led_1
+    2300100: lights_front_left_led_2
+    2300102: lights_front_right
+    2300104: lights_front_right_led_1
+    2300106: lights_front_right_led_2
+    2300108: logo_back
+    2300110: logo_front
+    2300112: number_plate_light
+    2300114: numberplate_back
+    2300116: rim_back_left_1
+    2300118: rim_back_left_2
+    2300120: rim_back_left_3
+    2300122: rim_back_right_1
+    2300124: rim_back_right_2
+    2300126: rim_front_left
+    2300128: rim_front_right_1
+    2300130: rim_front_right_2
+    2300132: rim_inner_front_left
+    2300134: rim_inner_front_right
+    2300136: roof
+    2300138: roof_inner
+    2300140: steering_wheel
+    2300142: tire_back_left
+    2300144: tire_back_left_2
+    2300146: tire_back_right
+    2300148: tire_back_right_2
+    2300150: tire_front_left
+    2300152: tire_front_right
+    2300154: trunk_detail
+    2300156: window
+    2300158: window_lids
+    2300160: window_lids_2
+    2300162: window_lids_3
+    2300164: windshield
+    3300000: air_vent_left
+    3300002: air_vent_right
+    3300004: back_bottom
+    3300006: back_door_left
+    3300008: back_door_right
+    3300010: back_frame
+    3300012: back_lights_glass
+    3300014: back_mirror_left
+    3300016: back_mirror_right
+    3300018: back_seats
+    3300020: back_shoulders
+    3300022: back_windo_rim
+    3300024: base
+    3300026: bonnet
+    3300028: bottom_sides
+    3300030: break_back_left
+    3300032: break_back_right
+    3300034: break_front_left
+    3300036: break_front_right
+    3300038: breaklights
+    3300040: car_main_back
+    3300042: car_main_back_wheelcaps
+    3300044: car_main_floor_back
+    3300046: car_main_floor_front
+    3300048: car_main_front_left_lower
+    3300050: car_main_front_left_upper_back
+    3300052: car_main_front_left_upper_front
+    3300054: car_main_front_right_lower
+    3300056: car_main_front_right_upper_back
+    3300058: car_main_insets
+    3300060: car_wheelcaps_front
+    3300062: car_wheelcaps_front_2
+    3300064: detail_1
+    3300066: detail_1_2
+    3300068: detail_2
+    3300070: detail_2_2
+    3300072: door
+    3300074: door_2
+    3300076: exhausts
+    3300078: front_connection
+    3300080: front_light_glass_left
+    3300082: front_light_glass_right
+    3300084: front_seat_left
+    3300086: front_seat_right
+    3300088: front_spoiler
+    3300090: glass
+    3300092: glass_2
+    3300094: grill
+    3300096: lights_front_left
+    3300098: lights_front_left_led_1
+    3300100: lights_front_left_led_2
+    3300102: lights_front_right
+    3300104: lights_front_right_led_1
+    3300106: lights_front_right_led_2
+    3300108: logo_back
+    3300110: logo_front
+    3300112: number_plate_light
+    3300114: numberplate_back
+    3300116: rim_back_left_1
+    3300118: rim_back_left_2
+    3300120: rim_back_left_3
+    3300122: rim_back_right_1
+    3300124: rim_back_right_2
+    3300126: rim_front_left
+    3300128: rim_front_right_1
+    3300130: rim_front_right_2
+    3300132: rim_inner_front_left
+    3300134: rim_inner_front_right
+    3300136: roof
+    3300138: roof_inner
+    3300140: steering_wheel
+    3300142: tire_back_left
+    3300144: tire_back_left_2
+    3300146: tire_back_right
+    3300148: tire_back_right_2
+    3300150: tire_front_left
+    3300152: tire_front_right
+    3300154: trunk_detail
+    3300156: window
+    3300158: window_lids
+    3300160: window_lids_2
+    3300162: window_lids_3
+    3300164: windshield
+    4300000: logo_front
+    4300002: base
+    4300004: steering_wheel
+    4300006: front_seat_left
+    4300008: front_seat_right
+    4300010: back_seats
+    4300012: car_main_back
+    4300014: back_shoulders
+    4300016: numberplate_back
+    4300018: back_bottom
+    4300020: bottom_sides
+    4300022: back_frame
+    4300024: roof
+    4300026: roof_inner
+    4300028: trunk_detail
+    4300030: number_plate_light
+    4300032: car_wheelcaps_front
+    4300034: car_main_front_right_lower
+    4300036: car_main_front_right_upper_back
+    4300038: car_main_front_left_upper_front
+    4300040: car_main_front_left_lower
+    4300042: car_main_front_left_upper_back
+    4300044: car_wheelcaps_front_2
+    4300046: exhausts
+    4300048: front_connection
+    4300050: breaklights
+    4300052: car_main_insets
+    4300054: car_main_back_wheelcaps
+    4300056: car_main_floor_back
+    4300058: car_main_floor_front
+    4300060: bonnet
+    4300062: front_spoiler
+    4300064: window_lids
+    4300066: window
+    4300068: detail_1
+    4300070: door
+    4300072: back_mirror_left
+    4300074: detail_2
+    4300076: window_lids_2
+    4300078: glass
+    4300080: door_2
+    4300082: back_mirror_right
+    4300084: back_door_right
+    4300086: back_door_left
+    4300088: window_lids_3
+    4300090: grill
+    4300092: glass_2
+    4300094: windshield
+    4300096: back_windo_rim
+    4300098: lights_front_right
+    4300100: front_light_glass_right
+    4300102: lights_front_right_led_1
+    4300104: lights_front_right_led_2
+    4300106: lights_front_left
+    4300108: front_light_glass_left
+    4300110: lights_front_left_led_1
+    4300112: lights_front_left_led_2
+    4300114: air_vent_left
+    4300116: air_vent_right
+    4300118: detail_1_2
+    4300120: detail_2_2
+    4300122: tire_back_left
+    4300124: rim_front_right_1
+    4300126: rim_front_right_2
+    4300128: break_front_right
+    4300130: tire_front_right
+    4300132: rim_inner_front_right
+    4300134: rim_back_left_1
+    4300136: rim_back_left_3
+    4300138: rim_back_left_2
+    4300140: break_back_left
+    4300142: tire_back_left_2
+    4300144: tire_back_right
+    4300146: break_back_right
+    4300148: rim_back_right_1
+    4300150: rim_back_right_2
+    4300152: tire_back_right_2
+    4300154: tire_front_left
+    4300156: rim_front_left
+    4300158: break_front_left
+    4300160: rim_inner_front_left
+    4300162: back_lights_glass
+    4300164: logo_back
+    7400000: open-doors
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open-doors
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: air_vent_left
+        weight: 1
+      - path: air_vent_right
+        weight: 1
+      - path: back_bottom
+        weight: 1
+      - path: back_door_left
+        weight: 1
+      - path: back_door_right
+        weight: 1
+      - path: back_frame
+        weight: 1
+      - path: back_lights_glass
+        weight: 1
+      - path: back_seats
+        weight: 1
+      - path: back_shoulders
+        weight: 1
+      - path: back_windo_rim
+        weight: 1
+      - path: base
+        weight: 1
+      - path: bonnet
+        weight: 1
+      - path: bottom_sides
+        weight: 1
+      - path: breaklights
+        weight: 1
+      - path: car_main_back
+        weight: 1
+      - path: car_main_back_wheelcaps
+        weight: 1
+      - path: car_main_floor_back
+        weight: 1
+      - path: car_main_floor_front
+        weight: 1
+      - path: car_main_front_left_upper_front
+        weight: 1
+      - path: car_main_front_left_upper_front/car_main_front_left_lower
+        weight: 1
+      - path: car_main_front_left_upper_front/car_main_front_left_upper_back
+        weight: 1
+      - path: car_main_insets
+        weight: 1
+      - path: car_wheelcaps_front
+        weight: 1
+      - path: car_wheelcaps_front/car_main_front_right_lower
+        weight: 1
+      - path: car_wheelcaps_front/car_main_front_right_upper_back
+        weight: 1
+      - path: car_wheelcaps_front_2
+        weight: 1
+      - path: detail_1_2
+        weight: 1
+      - path: detail_2_2
+        weight: 1
+      - path: exhausts
+        weight: 1
+      - path: front_connection
+        weight: 1
+      - path: front_door_left
+        weight: 1
+      - path: front_door_left/back_mirror_left
+        weight: 1
+      - path: front_door_left/detail_1
+        weight: 1
+      - path: front_door_left/door
+        weight: 1
+      - path: front_door_left/window
+        weight: 1
+      - path: front_door_left/window_lids
+        weight: 1
+      - path: front_door_right
+        weight: 1
+      - path: front_door_right/back_mirror_right
+        weight: 1
+      - path: front_door_right/detail_2
+        weight: 1
+      - path: front_door_right/door_2
+        weight: 1
+      - path: front_door_right/glass
+        weight: 1
+      - path: front_door_right/window_lids_2
+        weight: 1
+      - path: front_seat_left
+        weight: 1
+      - path: front_seat_right
+        weight: 1
+      - path: front_spoiler
+        weight: 1
+      - path: glass_2
+        weight: 1
+      - path: grill
+        weight: 1
+      - path: lights_front_left
+        weight: 1
+      - path: lights_front_left/front_light_glass_left
+        weight: 1
+      - path: lights_front_left/lights_front_left_led_1
+        weight: 1
+      - path: lights_front_left/lights_front_left_led_2
+        weight: 1
+      - path: lights_front_right
+        weight: 1
+      - path: lights_front_right/front_light_glass_right
+        weight: 1
+      - path: lights_front_right/lights_front_right_led_1
+        weight: 1
+      - path: lights_front_right/lights_front_right_led_2
+        weight: 1
+      - path: logo_back
+        weight: 1
+      - path: logo_front
+        weight: 1
+      - path: number_plate_light
+        weight: 1
+      - path: numberplate_back
+        weight: 1
+      - path: roof
+        weight: 1
+      - path: roof_inner
+        weight: 1
+      - path: steering_wheel
+        weight: 1
+      - path: tires
+        weight: 1
+      - path: tires/break_back_left
+        weight: 1
+      - path: tires/break_back_right
+        weight: 1
+      - path: tires/break_front_left
+        weight: 1
+      - path: tires/break_front_right
+        weight: 1
+      - path: tires/rim_back_left_1
+        weight: 1
+      - path: tires/rim_back_left_2
+        weight: 1
+      - path: tires/rim_back_left_3
+        weight: 1
+      - path: tires/rim_back_right_1
+        weight: 1
+      - path: tires/rim_back_right_2
+        weight: 1
+      - path: tires/rim_front_left
+        weight: 1
+      - path: tires/rim_front_right_1
+        weight: 1
+      - path: tires/rim_front_right_2
+        weight: 1
+      - path: tires/rim_inner_front_left
+        weight: 1
+      - path: tires/rim_inner_front_right
+        weight: 1
+      - path: tires/tire_back_left
+        weight: 1
+      - path: tires/tire_back_left_2
+        weight: 1
+      - path: tires/tire_back_right
+        weight: 1
+      - path: tires/tire_back_right_2
+        weight: 1
+      - path: tires/tire_front_left
+        weight: 1
+      - path: tires/tire_front_right
+        weight: 1
+      - path: trunk_detail
+        weight: 1
+      - path: window_lids_3
+        weight: 1
+      - path: windshield
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,23 @@
+{
+	"inputResponsiveness": 1,
+	
+	"zoomSpeed": 20,
+	
+	"yawSpeed": 30,
+	
+	"pitchSpeed": 20,
+	
+	"panSpeed": 4,
+	
+	"gyroPitchSpeed": 15,
+	
+	"gyroYawSpeed": 15,
+	
+	"defaultEaseType": "QuadInOut",
+	
+	"transitionDuration": 1,
+	
+	"flyInDuration": 2.5,
+	
+	"eyeFov": 75
+}

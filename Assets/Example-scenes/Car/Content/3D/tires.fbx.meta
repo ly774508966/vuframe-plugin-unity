@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 484a51a8746ef4560a814352bbd264cc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: break_back_left
+    100002: break_back_right
+    100004: break_front_left
+    100006: break_front_right
+    100008: rim_inner_front_left
+    100010: rim_inner_front_right
+    100012: rim_main_back_left
+    100014: rim_main_back_right
+    100016: rim_main_front_left
+    100018: rim_main_front_right
+    100020: rims
+    100022: rubber
+    100024: tire_back_left
+    100026: tire_back_left_2
+    100028: tire_back_right
+    100030: tire_back_right_2
+    100032: tire_front_left
+    100034: tire_front_right
+    100036: //RootNode
+    400000: break_back_left
+    400002: break_back_right
+    400004: break_front_left
+    400006: break_front_right
+    400008: rim_inner_front_left
+    400010: rim_inner_front_right
+    400012: rim_main_back_left
+    400014: rim_main_back_right
+    400016: rim_main_front_left
+    400018: rim_main_front_right
+    400020: rims
+    400022: rubber
+    400024: tire_back_left
+    400026: tire_back_left_2
+    400028: tire_back_right
+    400030: tire_back_right_2
+    400032: tire_front_left
+    400034: tire_front_right
+    400036: //RootNode
+    2300000: break_back_left
+    2300002: break_back_right
+    2300004: break_front_left
+    2300006: break_front_right
+    2300008: rim_inner_front_left
+    2300010: rim_inner_front_right
+    2300012: rim_main_back_left
+    2300014: rim_main_back_right
+    2300016: rim_main_front_left
+    2300018: rim_main_front_right
+    2300020: tire_back_left
+    2300022: tire_back_left_2
+    2300024: tire_back_right
+    2300026: tire_back_right_2
+    2300028: tire_front_left
+    2300030: tire_front_right
+    3300000: break_back_left
+    3300002: break_back_right
+    3300004: break_front_left
+    3300006: break_front_right
+    3300008: rim_inner_front_left
+    3300010: rim_inner_front_right
+    3300012: rim_main_back_left
+    3300014: rim_main_back_right
+    3300016: rim_main_front_left
+    3300018: rim_main_front_right
+    3300020: tire_back_left
+    3300022: tire_back_left_2
+    3300024: tire_back_right
+    3300026: tire_back_right_2
+    3300028: tire_front_left
+    3300030: tire_front_right
+    4300000: rim_main_front_right
+    4300002: rim_main_back_right
+    4300004: rim_main_back_left
+    4300006: rim_main_front_left
+    4300008: tire_back_left
+    4300010: tire_front_right
+    4300012: tire_back_right
+    4300014: tire_front_left
+    4300016: break_front_right
+    4300018: rim_inner_front_right
+    4300020: break_back_left
+    4300022: tire_back_left_2
+    4300024: break_back_right
+    4300026: tire_back_right_2
+    4300028: break_front_left
+    4300030: rim_inner_front_left
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
