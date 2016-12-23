@@ -50,3 +50,17 @@ No, you can delete the Examples Folder from your Asset.
 For now we only support Unity Standard shaders of the Unity version mentioned above.
 - Why does the app crash when I open the 3D model?
 Memory Issues, too large or too many textures, too large/complicated meshes.
+
+### Screenshots:
+- Scene in Editor
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/1.JPG?raw=true)
+- Scene Inspector Window
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/2.JPG?raw=true)
+- Publishing Window
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/3.JPG?raw=true)
+- Scene in Playmode
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/4.JPG?raw=true)
+- Scene with Ego Triggers
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/5.JPG?raw=true)
+- Scene in Ego Perspective
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/6.JPG?raw=true)
