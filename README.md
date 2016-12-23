@@ -1,5 +1,10 @@
 # Vuframe Unity Plugin
+![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/header_sqr.png?raw=true)
 The Vuframe Plug-In enables you to author interactive 3d content in Unity and publish it directly to the Vuframe platform. Please keep in mind that the plug-in is still in its beta phase.
+
+You need to have a Vuframe Platform Account in order to use this. If you don't have one already, you can sign up here:
+http://www.vuframe.com/signup
+
 ### Requirements (Compatibility)
 Currently this version is only compatible with Unity 4.7.1.
 You can download it from here:
@@ -40,6 +45,7 @@ and show the roof. Use the two buttons on the right to switch between the differ
 - TV-Set
 Our last example is a flat screen TV with 3 different sizes. It also shows additional information like a price-tag and
 measurements. It uses layouts and Event Trigger as 3D elements.
+
 ### FAQ:
 - How can I enable Augmented Reality?
 Activate the "OnTable" Feature in the Inspector of your Scene Component.
@@ -69,3 +75,8 @@ Memory Issues, too large or too many textures, too large/complicated meshes.
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/5.JPG?raw=true)
 - Scene in Ego Perspective
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/6.JPG?raw=true)
+### Requirements (Compatibility)
+Currently this version is only compatible with Unity 4.7.1.
+You can download it from here:
+- Windows: http://download.unity3d.com/download_unity/unity-4.7.1.dmg
+- MAC: http://download.unity3d.com/download_unity/UnitySetup-4.7.1.exe
