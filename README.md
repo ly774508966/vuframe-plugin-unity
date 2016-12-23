@@ -1,7 +1,12 @@
 # Vuframe Unity Plugin
 The Vuframe Plug-In enables you to author interactive 3d content in Unity and publish it directly to the Vuframe platform. Please keep in mind that the plug-in is still in its beta phase.
 ### Requirements (Compatibility)
-Currently this version is only compatible with Unity 4.7.1. Unity 5 Support is coming soon.
+Currently this version is only compatible with Unity 4.7.1.
+You can download it from here:
+- Windows: http://download.unity3d.com/download_unity/unity-4.7.1.dmg
+- MAC: http://download.unity3d.com/download_unity/UnitySetup-4.7.1.exe
+
+Unity 5 Support is coming soon.
 ### Install
 Launch Unity 4.7.1. and open the project you have downloaded or cloned from Github. If you want to add the Unity Plug-In to an existing project, just copy the "Vuframe" folder into your Projects Assets Folder.
 ### Quickstart:
