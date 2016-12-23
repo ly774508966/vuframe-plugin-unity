@@ -9,8 +9,8 @@ http://www.vuframe.com/signup
 ### Requirements (Compatibility)
 Currently this version is only compatible with Unity 4.7.1.
 You can download it from here:
-- Windows: http://download.unity3d.com/download_unity/unity-4.7.1.dmg
-- MAC: http://download.unity3d.com/download_unity/UnitySetup-4.7.1.exe
+- MAC: http://download.unity3d.com/download_unity/unity-4.7.1.dmg
+- Windows: http://download.unity3d.com/download_unity/UnitySetup-4.7.1.exe
 
 Unity 5 Support is coming soon.
 ### Install
@@ -76,8 +76,3 @@ Memory Issues, too large or too many textures, too large/complicated meshes.
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/5.JPG?raw=true)
 - Scene in Ego Perspective
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/6.JPG?raw=true)
-### Requirements (Compatibility)
-Currently this version is only compatible with Unity 4.7.1.
-You can download it from here:
-- Windows: http://download.unity3d.com/download_unity/unity-4.7.1.dmg
-- MAC: http://download.unity3d.com/download_unity/UnitySetup-4.7.1.exe
