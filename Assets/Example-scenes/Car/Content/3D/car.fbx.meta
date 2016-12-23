@@ -90,6 +90,7 @@ ModelImporter:
     100168: window_lids_2
     100170: window_lids_3
     100172: windshield
+    100174: car_wheelcaps_front_1
     400000: air_vent_left
     400002: air_vent_right
     400004: back_bottom
@@ -177,6 +178,7 @@ ModelImporter:
     400168: window_lids_2
     400170: window_lids_3
     400172: windshield
+    400174: car_wheelcaps_front_1
     2300000: air_vent_left
     2300002: air_vent_right
     2300004: back_bottom
@@ -260,6 +262,7 @@ ModelImporter:
     2300160: window_lids_2
     2300162: window_lids_3
     2300164: windshield
+    2300166: car_wheelcaps_front_1
     3300000: air_vent_left
     3300002: air_vent_right
     3300004: back_bottom
@@ -343,6 +346,7 @@ ModelImporter:
     3300160: window_lids_2
     3300162: window_lids_3
     3300164: windshield
+    3300166: car_wheelcaps_front_1
     4300000: logo_front
     4300002: base
     4300004: steering_wheel
@@ -426,6 +430,7 @@ ModelImporter:
     4300160: rim_inner_front_left
     4300162: back_lights_glass
     4300164: logo_back
+    4300166: car_wheelcaps_front_1
     7400000: open-doors
     9500000: //RootNode
     11100000: //RootNode
