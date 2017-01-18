@@ -63,10 +63,6 @@ For now we only support Unity Standard shaders of the Unity version mentioned ab
 - Why does the app crash when I open the 3D model?
 Memory Issues, too large or too many textures, too large/complicated meshes.
 
-### Known Issues:
-- Windows: Preview Images are not generated correctly.
-- Windows: Published Scenes are not working.
-
 ### Screenshots:
 - Scene in Editor
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/1.JPG?raw=true)
