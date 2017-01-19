@@ -7,14 +7,14 @@ You need to have a Vuframe Platform Account in order to use this. If you don't h
 http://www.vuframe.com/signup
 
 ### Requirements (Compatibility)
-Currently this version is only compatible with Unity 4.7.1.
-You can download it from here:
-- MAC: http://download.unity3d.com/download_unity/unity-4.7.1.dmg
-- Windows: http://download.unity3d.com/download_unity/UnitySetup-4.7.1.exe
+Currently this version is compatible with all versions between Unity 4.6.0 and 4.7.2.
+You can download the latest supported version here:
+- MAC: http://download.unity3d.com/download_unity/unity-4.7.2.dmg
+- Windows: http://download.unity3d.com/download_unity/UnitySetup-4.7.2.exe
 
 Unity 5 Support is coming soon.
 ### Install
-Launch Unity 4.7.1. and open the project you have downloaded or cloned from Github. If you want to add the Unity Plug-In to an existing project, just copy the "Vuframe" folder into your Projects Assets Folder.
+Launch Unity and open the project you have downloaded or cloned from Github. If you want to add the Unity Plug-In to an existing project, just copy the "Vuframe" folder into your Projects Assets Folder.
 ### Quickstart:
 Add a "Scene" Component to your Root Object.  Hit Play.
 ### Components
@@ -51,7 +51,7 @@ measurements. It uses layouts and Event Trigger as 3D elements.
 - How can I enable Augmented Reality?
 Activate the "OnTable" Feature in the Inspector of your Scene Component.
 - With which Unity Versions is this Plug-In compatible?
-The Plug-In for now is only compatible and tested with Unity 4.7.1. You can download it from the Unity
+The Plug-In for now is compatible and tested with all Versions between Unity 4.6.0 and Unity 4.7.2. You can download it from the Unity
 Download-Archive here: https://unity3d.com/de/get-unity/download/archive
 - Do I need to have a Unity Plus license (or above) to use the Plug-In?
 No, you can use the Plug-In with Unity Personal (free) within the limitations of your license of the compatible
