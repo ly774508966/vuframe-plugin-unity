@@ -9,7 +9,7 @@ http://www.vuframe.com/signup
 ### Requirements (Compatibility)
 Currently this version is compatible with all versions between Unity 4.6.0 and 4.7.2.
 You can download the latest supported version here:
-- MAC: http://download.unity3d.com/download_unity/unity-4.7.2.dmg
+- Mac: http://download.unity3d.com/download_unity/unity-4.7.2.dmg
 - Windows: http://download.unity3d.com/download_unity/UnitySetup-4.7.2.exe
 
 Unity 5 Support is coming soon.
