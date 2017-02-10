@@ -69,6 +69,10 @@ Memory Issues, too large or too many textures, too large/complicated meshes.
 - Is there an online documentation for the Unity Plugin?
 Yes you can find it in our support platform https://vuframe.zendesk.com/hc/en-us/sections/115000265309-Unity-3D-Plugin 
 
+### Known Issues:
+- Unity 5 no support for Directional and Directional-Specular Lightmaps
+- Unity 5 Normal maps exported wrong
+
 ### Screenshots:
 - Scene in Editor
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/1.JPG?raw=true)
