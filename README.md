@@ -6,6 +6,8 @@ The Vuframe Plug-In enables you to author interactive 3d content in Unity and pu
 You need to have a Vuframe Platform Account in order to use this. If you don't have one already, you can sign up here:
 http://www.vuframe.com/signup
 
+**Attention: while it is still BETA please always make a copy of your project before starting to use the Vuframe Plugin.**
+
 ### Requirements (Compatibility)
 Currently this version is compatible and tested with all versions between Unity 4.6.0 up to 5.5.1 At this time only Legacy shaders are supported in Unity 5.
 
@@ -69,10 +71,6 @@ Memory Issues, too large or too many textures, too large/complicated meshes.
 - Is there an online documentation for the Unity Plugin?
 Yes you can find it in our support platform https://vuframe.zendesk.com/hc/en-us/sections/115000265309-Unity-3D-Plugin 
 
-### Known Issues:
-- Unity 5 no support for Directional and Directional-Specular Lightmaps
-- Unity 5 Normal maps exported wrong
-
 ### Screenshots:
 - Scene in Editor
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/1.JPG?raw=true)
@@ -86,3 +84,9 @@ Yes you can find it in our support platform https://vuframe.zendesk.com/hc/en-us
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/5.JPG?raw=true)
 - Scene in Ego Perspective
 ![N|Solid](https://github.com/Vuframe/vuframe-plugin-unity/blob/master/Screenshots/6.JPG?raw=true)
+
+
+### Known Issues:
+- Unity 5: no support for Directional and Directional-Specular Lightmaps
+- Unity 5: Normal maps exported wrongly
+- platform-dependent texture-settings will always be cleared when exporting or publishing a file to Vuframe
