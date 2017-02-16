@@ -9,14 +9,20 @@ http://www.vuframe.com/signup
 **Attention: while it is still BETA please always make a copy of your project before starting to use the Vuframe Plugin.**
 
 ### Requirements (Compatibility)
-Currently this version is compatible and tested with all versions between Unity 4.6.0 up to 5.5.1 At this time only Legacy shaders are supported in Unity 5.
+Currently this version is compatible and tested with all versions between Unity 4.7 up to 5.5.
 
 You can download the latest supported version here:
 - https://unity3d.com/de/get-unity/download/archive
 
 Unity 5.5 and PBS-material Support is coming soon.
 ### Install
-Launch Unity and open the project you have downloaded or cloned from Github. If you want to add the Unity Plug-In to an existing project, just copy the "Vuframe" folder into your Projects Assets Folder.
+Launch Unity and open the project you have downloaded or cloned from Github.
+
+Be aware that there are dedicated Branches for different Unity Version:
+Unity 4.7 up to Unity 5.3 => Branch: unity_4.7_with_Sample_Projects
+Unity 5.4 => Branch: unity_5.4_with_Sample_Projects
+Unity 5.5 => Branch: unity_5.5_with_Sample_Projects
+
 ### Quickstart:
 Add an empty Game Object, name it, click on the Component button and add the "Scene" Component. Add a mesh object (e.g. a Unity standard object) as a child object to your just created Game Object with the scene Component. Hit Play.
 
@@ -53,10 +59,8 @@ Our last example is a flat screen TV with 3 different sizes. It also shows addit
 measurements. It uses layouts and Event Trigger as 3D elements.
 
 ### FAQ:
-- How can I enable Augmented Reality?
-Activate the "OnTable" Feature in the Inspector of your Scene Component.
 - With which Unity Versions is this Plug-In compatible?
-The Plug-In for now is compatible and tested with all Versions between Unity 4.6.0 and Unity 5.5.1. You can download it from the Unity
+The Plug-In for now is compatible and tested with all Versions between Unity 4.7 and Unity 5.5. You can download it from the Unity
 Download-Archive here: https://unity3d.com/de/get-unity/download/archive
 - Do I need to have a Unity Plus license (or above) to use the Plug-In?
 No, you can use the Plug-In with Unity Personal (free) within the limitations of your license of the compatible Version.
@@ -65,7 +69,7 @@ No, you can delete the Examples Folder from your Asset.
 - Which shaders are supported in the Plug-In?
 For now we only support the following Shaders:
 -- Unity 4:  only Standard Shaders
--- Unity 5:  only Legacy Shaders
+-- Unity 5:  all Shaders that were available in Unity 4 (Legcy Shaders)
 - Why does the app crash when I open the 3D model?
 Memory Issues, too large or too many textures, too large/complicated meshes.
 - Is there an online documentation for the Unity Plugin?
