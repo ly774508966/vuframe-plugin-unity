@@ -19,9 +19,9 @@ Unity 5.5 and PBS-material Support is coming soon.
 Launch Unity and open the project you have downloaded or cloned from Github.
 
 Be aware that there are dedicated Branches for different Unity Version:
-Unity 4.7 up to Unity 5.3 => Branch: unity_4.7_with_Sample_Projects
-Unity 5.4 => Branch: unity_5.4_with_Sample_Projects
-Unity 5.5 => Branch: unity_5.5_with_Sample_Projects
+- Unity 4.7 up to Unity 5.3 => Branch: unity_4.7_with_Sample_Projects
+- Unity 5.4 => Branch: unity_5.4_with_Sample_Projects
+- Unity 5.5 => Branch: unity_5.5_with_Sample_Projects
 
 ### Quickstart:
 Add an empty Game Object, name it, click on the Component button and add the "Scene" Component. Add a mesh object (e.g. a Unity standard object) as a child object to your just created Game Object with the scene Component. Hit Play.
